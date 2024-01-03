@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.6](https://github.com/open-feature/rust-sdk/compare/open-feature-v0.1.5...open-feature-v0.1.6) (2024-01-03)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update rust crate async-trait to 0.1.77 ([#52](https://github.com/open-feature/rust-sdk/issues/52)) ([50390e8](https://github.com/open-feature/rust-sdk/commit/50390e87b8cdd44d7a509aa9174ae3f0a53342f4))
+* **deps:** update rust crate serde_json to 1.0.110 ([#53](https://github.com/open-feature/rust-sdk/issues/53)) ([1d90cd9](https://github.com/open-feature/rust-sdk/commit/1d90cd9b884999285be79604c6c7b90be24d936e))
+
 ## [0.1.5](https://github.com/open-feature/rust-sdk/compare/open-feature-v0.1.4...open-feature-v0.1.5) (2023-12-20)
 
 
